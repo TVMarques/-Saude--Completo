@@ -66,8 +66,6 @@ Este aplicativo tem como objetivo coletar informações do usuário, como dados 
 - O Estado
 
 ---
-![Descrição da imagem](images/Captura.png)
-**Figura 1 - Medição gráfica do público alvo**
 
 ### 2.2 Dificuldades Encontradas
 
