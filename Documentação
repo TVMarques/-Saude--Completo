@@ -1,1 +1,132 @@
+# +Saúde
+
+## Introdução  
+A proposta do projeto **+Saúde** surge da necessidade de promover um melhor acompanhamento da saúde individual e preventiva, integrando tecnologia e comunicação entre pacientes e profissionais de saúde.
+
+## Justificativa  
+A dificuldade ao acesso de informações de saúde por parte de indivíduos e da sociedade, no que tange à prevenção e tratamento de doenças, à saúde pessoal e aos problemas de marcação de consultas e exames em instituições de saúde públicas/privadas, justifica a criação do app **+Saúde**.
+
+## Objetivo  
+Promover a saúde individual e coletiva no que tange à prevenção e tratamento de doenças através do aplicativo **+Saúde**, facilitando também o agendamento e acompanhamento de consultas e exames médicos, e incentivando a busca da qualidade de vida.
+
+## Metodologia  
+O desenvolvimento do aplicativo **+Saúde** foi realizado em etapas, iniciando com uma pesquisa de necessidades dos usuários e mapeamento de funcionalidades desejadas. O grupo se reuniu para discutir as diretrizes do app e, em seguida, elaborou o projeto do aplicativo. Portanto, o modelo de desenvolvimento utilizado foi o **Incremental**.
+
+## Desenvolvimento  
+O aplicativo **+Saúde** foi projetado para ser intuitivo e acessível, com funcionalidades que incluem agendamento de consultas, lembretes personalizados e acesso a informações sobre doenças. A interface foi desenvolvida com foco na usabilidade, garantindo que usuários de diferentes faixas etárias e níveis de acesso à tecnologia pudessem utilizar o aplicativo com facilidade.  
+Além disso, o sistema coleta dados de saúde dos usuários, permitindo uma abordagem mais individualizada nas orientações oferecidas.  
+As áreas de saúde usadas foram: **Saúde Individual**, **coletiva** e **preventiva**.
+
+---
+
+## 1. Apresentação da Proposta do Produto
+
+### Nome da Aplicação
+**+Saúde**
+
+### 1.1 Descrição do Produto  
+Este aplicativo tem como objetivo coletar informações do usuário, como dados e possíveis problemas de saúde. Após a inserção das informações, o usuário terá acesso a informações de prevenção, tratamento e saúde de um modo geral.  
+Também é objetivo do aplicativo encaminhar os dados dos usuários às instituições de saúde públicas e privadas, para que sirvam de estratégias de elaboração de políticas de saúde, campanhas, pesquisas e estatísticas.
+
+### 1.2 Recursos e Funcionalidades do Aplicativo
+
+- **Coleta de Informações do Usuário**  
+  Permite que usuários ofereçam dados essenciais, como idade, gênero, histórico médico, hábitos de vida, condições de saúde preexistentes, níveis de atividade física e preferências alimentares.
+
+- **Acesso a Informações sobre Doenças**  
+  Descreve doenças, sintomas e possíveis complicações.
+
+- **Alertas de Prevenção**  
+  Incentiva o usuário a buscar ajuda médica ou tomar medidas preventivas com base no seu perfil de saúde.
+
+- **Recomendação Personalizada de Tratamento**  
+  Sugestões de médicos, planos de exercícios, dietas e práticas de bem-estar, baseadas nos dados fornecidos.
+
+- **Marcação de Consultas com Lembretes**  
+  Agendamento de consultas médicas com envio de lembretes automáticos.
+
+- **Marcação de Exames com Lembretes**  
+  Agendamento de exames preventivos ou de acompanhamento com lembretes automáticos.
+
+- **Definição de Metas de Saúde**  
+  Estabelecimento de metas como perder peso, melhorar o sono, entre outras. O aplicativo acompanha e fornece feedback sobre o progresso.
+
+- **Segurança e Privacidade de Dados**  
+  Garantia de proteção de dados conforme as regulamentações de privacidade.
+
+- **Fornecimento de Dados às Instituições de Saúde**  
+  Compartilhamento de dados com instituições para desenvolvimento de políticas, estratégias e pesquisas.
+
+---
+
+## 2. Apresentação da Visão do Produto
+
+### 2.1 Público-Alvo
+
+- Público em geral  
+- Pacientes com Condições Crônicas  
+- Médicos e profissionais de saúde  
+- Instituições de Saúde  
+- O Estado
+
+![Texto alternativo]() 
+> **Figura 1**: Medição gráfica do público-alvo
+
+---
+
+### 2.2 Dificuldades Encontradas
+
+- **Falta de Acesso a Informações Confiáveis**  
+  Centralização das informações confiáveis em um repositório único.
+
+- **Esquecimento de Consultas e Exames**  
+  Lembretes automáticos ajudam o usuário a manter seus compromissos médicos.
+
+- **Dificuldade em Manter Hábitos Saudáveis**  
+  Estabelecimento e acompanhamento de metas saudáveis.
+
+- **Comunicação Ineficiente entre Pacientes e Profissionais de Saúde**  
+  Comunicação mais eficiente e interativa dentro do app.
+
+- **Dificuldade de Organização de Logística pelo Estado**  
+  O app ajuda a melhorar a gestão de consultas e exames no serviço público de saúde.
+
+---
+
+### 2.3 Missão  
+Fazer com que o Estado, indivíduos, profissionais e instituições de saúde se comuniquem entre si, buscando levar informação, prevenção e qualidade de vida a todos os usuários do aplicativo.
+
+---
+
+### 2.4 Valor Agregado
+
+- Personalização das recomendações de saúde com base no perfil do usuário  
+- Integração e compartilhamento entre sistemas de saúde  
+- Desenvolvimento com **React Native** para dispositivos móveis  
+- Uso de APIs para acesso a informações de saúde
+
+---
+
+### 2.5 Benefícios Gerados pelo Aplicativo
+
+- Acesso a informações confiáveis e personalizadas  
+- Entendimento inicial sobre possíveis problemas de saúde  
+- Recomendação de ajuda especializada  
+- Gestão de consultas e exames  
+- Comunicação facilitada entre pacientes e profissionais  
+- Automação de processos médicos  
+- Promoção de hábitos saudáveis  
+- Melhoria da logística pública de saúde  
+- Apoio à formulação de políticas públicas  
+- Redução de custos operacionais  
+- Melhoria da qualidade de vida
+
+---
+
+### 2.6 Diferencial da Proposta em Relação aos Concorrentes
+
+A proposta oferece uma abordagem **holística e centralizadora** de informações de saúde, adaptando-se ao estilo de vida, histórico médico e preferências do usuário.  
+Facilita a comunicação entre o Estado, pacientes, profissionais e instituições de saúde, agregando valor à gestão de políticas públicas e serviços médicos.
+
+---
 
