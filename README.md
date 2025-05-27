@@ -20,7 +20,7 @@ Este projeto é destinado a conectar usuários de assistência médica a hospita
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------
 | **Artur Cahu**       | Codificação das telas de editar e excluir, desenvolvimento do layout e design do aplicativo e da landing page, elaboração do vídeo de apresentação |
 | **Bruno Carlini**    | Codificação do histórico do paciente e integração das telas do front-end                                                                           |
-| **Lorenzo Perduzzo** | Codificação das dicas de saúde e da tela de suporte                                                                                                |
+| **Lorenzo Peruzzo** | Codificação das dicas de saúde e da tela de suporte                                                                                                |
 | **Lucas de Sousa**   | Codificação da tela de login, opções e codificação da landing page                                                                                 |
 | **Marcelo Garcia**   | Codificação da anamnese, elaboração do DER e do README                                                                                             |
 | **Marilia Ferreira** | Codificação do agendamento de exames                                                                                                               |
