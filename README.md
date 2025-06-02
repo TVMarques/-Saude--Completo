@@ -4,7 +4,7 @@
 
 - Artur Cahu  
 - Bruno Carlini  
-- Lorenzo Perduzzo  
+- Lorenzo Peruzzo  
 - Lucas Andrade de Sousa  
 - Marcelo de Carvalho Melchiades Garcia  
 - Marilia dos Santos Ferreira  
